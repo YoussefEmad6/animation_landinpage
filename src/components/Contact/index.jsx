@@ -26,6 +26,7 @@ export default function Index() {
                             src={`/images/background.jpg`}
                             />
                         </div>
+                     {/* eslint-disable-next-line react/no-unescaped-entities */}
                         <h2>Let's work</h2>
                     </span>
                     <h2>together</h2>
